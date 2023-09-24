@@ -1,7 +1,7 @@
 # TerraShield  ``SERVERLESS EXTENSION TO DETECT PHISHING LINKS`` 
  
 
-<!--
+<!---
 {
   "title": "TerraShield",
   "badges": [
@@ -26,9 +26,7 @@
     }
   ]
 }
-
-
--->
+--->
 
 
 
