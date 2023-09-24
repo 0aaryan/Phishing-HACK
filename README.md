@@ -5,8 +5,8 @@
 {
   "title": "TerraShield",
   "badges": [
-    "chrome-extension"
-    "machine learning"
+    "chrome-extension",
+    "machine learning",
     "python"
   ],
   "content": "A serverless extension to detect phishing links. Created for the VITISH-2023 hackathon.",
@@ -18,10 +18,10 @@
   "links": [
     {
       "icon": "fab fa-github",
-      "url": "https://github.com/your-github-repo-url",
+      "url": "https://github.com/your-github-repo-url"
     },
     {
-      "icon" : "fa fa-external-link-alt",
+      "icon": "fa fa-external-link-alt",
       "url": "https://jovial-lolly-5b5f24.netlify.app/#about"
     }
   ]
